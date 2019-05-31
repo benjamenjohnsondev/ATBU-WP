@@ -11,22 +11,22 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.1.5",
-    "@babel/preset-env": "^7.1.5",
-    "babel-loader": "^8.0.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
     "css-loader": "^1.0.1",
     "cssnano": "^4.1.10",
     "gulp-babel": "^8.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-count": "^1.0.0",
-    "gulp-uglify": "^3.0.1",
+    "gulp-uglify": "^3.0.2",
     "gulp-watch": "^5.0.1",
-    "mini-css-extract-plugin": "^0.4.4",
+    "mini-css-extract-plugin": "^0.4.5",
     "node-sass": "^4.12.0",
     "postcss-loader": "^3.0.0",
-    "postcss-preset-env": "^6.4.0",
+    "postcss-preset-env": "^6.6.0",
     "sass-loader": "^7.1.0",
-    "webpack": "^4.25.1",
-    "webpack-cli": "^3.1.2"
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
   }
 }
